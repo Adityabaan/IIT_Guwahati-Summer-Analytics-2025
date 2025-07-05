@@ -60,14 +60,15 @@ flowchart TD
 ---
 
 ## 📁 Repository Structure
-📁 IITG-Summer-Analytics-2025/FINAL
+IITG-Summer-Analytics-2025/
 │
-├── Notebook_FINAL.ipynb      # Clean, working notebook with explanations
-├── Notebook_FINAL.ipynb - Colab.pdf                  # This documentation
-├── bokeh_plot.png      # plot
-├── dataset.csv        # dataset
-├── parking_stream.csv  # parking_stream data
-└── problem statement.pdf #problem statement
+├── Notebook_FINAL.ipynb               # Final cleaned notebook with code & explanations
+├── Notebook_FINAL.ipynb - Colab.pdf   # PDF version of the final notebook (for documentation)
+├── bokeh_plot.png                     # Exported Bokeh plot image
+├── dataset.csv                        # Primary dataset used for analysis
+├── parking_stream.csv                 # Simulated streaming data for real-time insights
+└── problem statement.pdf              # Problem statement provided for the project
+
 
 ---
 
