@@ -34,23 +34,16 @@
 
 ---
 
-## 🏗️ Architecture
+### 🏗️ Architecture
 
-flowchart LR
-    A[CSV Data Simulated Streaming]:::source --> 
-    B[Pathway replay_csv]:::process --> 
-    C[Schema Parsing and Timestamp Engineering]:::process --> 
-    D[Windowing Daily Tumbling]:::process --> 
-    E[Feature Engineering]:::feature --> 
-    F[Dynamic Pricing Computation]:::compute --> 
-    G[Bokeh Panel Visualization]:::output
-
-    classDef source fill:#f9f,stroke:#333,stroke-width:2px;
-    classDef process fill:#c6e2ff,stroke:#0366d6,stroke-width:2px;
-    classDef feature fill:#ffe5b4,stroke:#ff9800,stroke-width:2px;
-    classDef compute fill:#d5f5e3,stroke:#27ae60,stroke-width:2px;
-    classDef output fill:#fce4ec,stroke:#c2185b,stroke-width:2px;
-
+mermaid
+flowchart TD
+    A[CSV Data Simulated Streaming] --> B[Pathway replay_csv]
+    B --> C[Schema Parsing and Timestamp Engineering]
+    C --> D[Windowing Daily Tumbling]
+    D --> E[Feature Engineering]
+    E --> F[Dynamic Pricing Computation]
+    F --> G[Bokeh Panel Visualization]
 
 
 ---
