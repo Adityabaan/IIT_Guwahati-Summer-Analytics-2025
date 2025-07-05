@@ -36,7 +36,7 @@
 
 ### 🏗️ Architecture
 
-mermaid
+'''mermaid
 flowchart TD
     A[CSV Data Simulated Streaming] --> B[Pathway replay_csv]
     B --> C[Schema Parsing and Timestamp Engineering]
@@ -44,7 +44,7 @@ flowchart TD
     D --> E[Feature Engineering]
     E --> F[Dynamic Pricing Computation]
     F --> G[Bokeh Panel Visualization]
-
+'''
 
 ---
 
