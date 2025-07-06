@@ -1,6 +1,6 @@
 # IIT_Guwahati-Summer-Analytics-2025
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Image_Alt](https://github.com/Adityabaan/IIT_Guwahati-Summer-Analytics-2025/blob/bfcdf54c7ae1da48a29ac13fd1e6bf9d7d23f5cc/profile.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Image_Alt](https://github.com/Adityabaan/IIT_Guwahati-Summer-Analytics-2025/blob/bfcdf54c7ae1da48a29ac13fd1e6bf9d7d23f5cc/images.png)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Image_Alt](https://github.com/Adityabaan/IIT_Guwahati-Summer-Analytics-2025/blob/bfcdf54c7ae1da48a29ac13fd1e6bf9d7d23f5cc/profile.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Image_Alt](https://github.com/Adityabaan/IIT_Guwahati-Summer-Analytics-2025/blob/bfcdf54c7ae1da48a29ac13fd1e6bf9d7d23f5cc/images.png)
 
 # 🚗 Real-Time Dynamic Parking Pricing using Pathway
 
