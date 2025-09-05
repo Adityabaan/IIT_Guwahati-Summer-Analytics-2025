@@ -159,6 +159,15 @@ Open `Sample_Notebook.ipynb`, run all cells, and interact with the live streamin
 - **Made by:** Adityabaan Tripathy
 ---
 
+## 📬 Contact
+
+For queries or collaborations:
+- 📧 Email: [adityabaantripathy@gmail.com](mailto:adityabaantripathy@gmail.com)  
+- 🌐 LinkedIn: [Adityabaan Tripathy](https://www.linkedin.com/in/adityabaan-tripathy-6b245323b/)  
+- 🐙 GitHub: [Adityabaan Tripathy](https://github.com/Adityabaan)  
+
+---
+
 This project is submitted solely for academic evaluation for **IITG Summer Analytics 2025**.
 
 > *Ready to revolutionize parking analytics? Fork, star, and contribute!*
